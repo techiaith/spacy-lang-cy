@@ -4,8 +4,12 @@
 cff-version: 1.2.0
 title: spacy-lang-cy
 message: >-
-  If you use this software, please cite it using the
-  metadata from this file.
+  Er ein bod yn rhyddhau'r data hwn o dan drwydded
+  MIT, gofynwn yn garedig i chi ystyried rhoi
+  cydnabyddiaeth i'r gwaith hwn. | While we are
+  releasing this data under the MIT licence, should
+  you use this resource, we kindly ask you to
+  consider acknowledging our work.
 type: software
 authors:
   - given-names: Gruffudd
@@ -16,7 +20,9 @@ authors:
 notes: "Gruffudd Prys - Cyfraniad ieithyddol a thechnegol/Linguistic and technical contribution"
 url: 'https://github.com/techiaith/spacy-lang-cy'
 abstract: >-
-Ffolder lang 'cy' ar gyfer ychwanegu'r Gymraeg i spaCy 2.3.2 | A 'cy' lang folder that adds Welsh to spaCy 2.3.2
+  Ffolder lang 'cy' ar gyfer ychwanegu'r Gymraeg i
+  spaCy 2.3.2 | A 'cy' lang folder that adds Welsh
+  to spaCy 2.3.2
 keywords:
   - Welsh
   - spaCy
