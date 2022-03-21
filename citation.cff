@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: spacy-lang-cy
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Gruffudd
+    family-names: Prys
+    email: g.prys@bangor.ac.uk
+    affiliation: Bangor University Language Technologies Unit
+    orcid: 'https://orcid.org/0000-0002-2910-2460'
+notes: "Gruffudd Prys - Cyfraniad ieithyddol a thechnegol/Linguistic and technical contribution"
+url: 'https://github.com/techiaith/spacy-lang-cy'
+abstract: >-
+Ffolder lang 'cy' ar gyfer ychwanegu'r Gymraeg i spaCy 2.3.2 | A 'cy' lang folder that adds Welsh to spaCy 2.3.2
+keywords:
+  - Welsh
+  - spaCy
+license: MIT
+version: '20.10'
+date-released: '2020-10-30'
