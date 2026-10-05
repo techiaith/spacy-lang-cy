@@ -1,3 +1,13 @@
+> **Archifwyd / Archived.** Mae'r Gymraeg bellach yn cael ei hychwanegu at spaCy ei hun. Mae'r cod
+> newydd yn [techiaith/spaCy](https://github.com/techiaith/spaCy/tree/welsh/spacy/lang/cy), ac wedi'i
+> gynnig i spaCy yn [explosion/spaCy#14044](https://github.com/explosion/spaCy/pull/14044). Cedwir
+> yr ystorfa hon er cyfeirio yn unig.
+>
+> Welsh support is now being added to spaCy itself. The new code is in
+> [techiaith/spaCy](https://github.com/techiaith/spaCy/tree/welsh/spacy/lang/cy), and has been
+> proposed to spaCy in [explosion/spaCy#14044](https://github.com/explosion/spaCy/pull/14044). This
+> repository is kept for reference only.
+
 # spacy-lang-cy
 
 (for English, see below)
